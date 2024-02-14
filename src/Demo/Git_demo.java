@@ -6,6 +6,9 @@ public class Git_demo {
 		 
 		System.out.println("I am git hub");
 		System.out.println("I am java");
+		
+		System.out.println("I am Ruby");
+		
 	}
 
 }
